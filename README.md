@@ -1,4 +1,4 @@
-# Digital Literacy Analysis with Machine Learning in Indonesia
+# Digital Literacy Skills for University Students
 
 Welcome to the Digital Literacy Analysis Project! This initiative focuses on leveraging machine learning to explore and predict digital literacy levels across Indonesia. By analyzing various datasets, we aim to uncover key factors influencing digital literacy and provide actionable insights to improve educational policies and strategies. 
 
